@@ -1,4 +1,4 @@
-Real Time Bus Tracker Exercise
+# Real Time Bus Tracker Exercise
 
 Displays a pointer that cycles along the bus stops between MIT and Harvard, once the run button is clicked.
 
@@ -6,7 +6,7 @@ Run by dragging index.html to your browser
 
 Future improvements may include the option to change the route of the pointer to the user's choice of two stops. Additionally, the option to add a detour could be implemented in the future as well.
 
-MIT License
+## MIT License
 
 Copyright (c) 2020 John Williams
 
