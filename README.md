@@ -1,6 +1,6 @@
 # Real Time Bus Tracker Exercise
 
-Displays a pointer that cycles along the bus stops between MIT and Harvard, once the run button is clicked.
+Displays a pointer that cycles along the bus stops between MIT and Harvard, once the run button is clicked. Map is generated from Mapbox.
 
 Run by dragging index.html to your browser
 
